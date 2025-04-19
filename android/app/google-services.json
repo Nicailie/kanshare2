@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133940406792",
+    "project_id": "kanshare-ba86b",
+    "storage_bucket": "kanshare-ba86b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133940406792:android:4cb9a26ac4d8e51561bfbd",
+        "android_client_info": {
+          "package_name": "com.mlabs.kanshare.kanshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoeIRrkYQkFaBQMVmaZjwoQG08v9T_DFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
